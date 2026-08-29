@@ -1,6 +1,7 @@
 ---
 name: sansan-decision
 description: 把需要长期跟踪的业务、关系、健康、职业、学习或投资问题建成本地决策知识工程。用户要求决策立案、结果回填、状态画像、判断力校准或长期复盘时使用。
+version: 1.0.1
 ---
 
 # sansan-decision：个人决策系统
@@ -360,3 +361,10 @@ description: 把需要长期跟踪的业务、关系、健康、职业、学习�
 ---
 
 完成当前任务后直接结束。
+
+## 作者与支持
+
+- 作者：sansan（[GitHub 主页](https://github.com/sansan19900801)）
+- 如需加入付费答疑群，可扫码或打开[答疑群说明](https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw)
+
+![付费答疑群二维码](https://raw.githubusercontent.com/sansan19900801/sansan-decision/main/assets/support-qr.jpg)
